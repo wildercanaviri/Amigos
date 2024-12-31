@@ -11,7 +11,7 @@ export function Header() {
       </h1>
       
       <p className="text-xl md:text-2xl text-purple-200 mb-8 md:mb-12">
-        Bienvenido 2025 
+        Tenemos una misión 2025 
         <Heart className="inline-block ml-2 text-red-400 animate-bounce" />
       </p>
     </>
