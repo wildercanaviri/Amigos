@@ -1,16 +1,20 @@
 export const friends = [
-  'Alvaro',
-  'Brayan',
+  'Alvarito',
+  'Arturo B. (Voluntad 0)',
+  'Brian',
   'Dembele',
-  'Deya',
+  'Deyanira',
+  'Denisse',
   'Diego',
-  'Galle',
+  'Galle (Alvaro)',
   'Giovani',
   'Harold',
-  'Jhanet',
-  'Jhoel',
+  'Jhanneth',
+  'Jhoel Wilder "El Sano"',
   'Jhordan',
   'Mauri',
-  'Potosi',
-  'Rodrigo'
+  'Marcelo',
+  'Oscar (Potosi)',
+  'Rodrigo',
+  'R. A. Calliconde P.'
 ].sort();
